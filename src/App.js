@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid p-9">
       <Navbar />
       <Routes>
         <Route path="/" element={<Notes />} />

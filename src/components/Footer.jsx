@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div>
-      <h2>Footer</h2>
+      <h2 className="text-xl font-bold text-center"> &copy; Umar 2022</h2>
     </div>
   );
 };
